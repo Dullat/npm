@@ -49,3 +49,19 @@ i use arch btw.
 sudo pacman -S nodejs npm
 ```
 
+* varify installation by runing
+```bash
+npm varsion
+```
+
+### android/termux
+android is basically a closed linux. You can execute commands on android using termux (u dont need to root)
+you can practice node or npm even if you are out, you dont need to carry laptop everywhere
+
+1. learn basic termux
+2. use pkg install:
+```bash
+pkg install nodejs npm
+```
+remember Errors may Occur
+
