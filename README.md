@@ -18,6 +18,6 @@ To install npm on Windows, use npm's official installer, which comes bundled wit
 3. Time to varify, open a command prompt or PowerShell window and verify npm installation by running:
 
 * use
-* <pre>```npm```</pre>
+<pre>``` $ npm --version ```</pre>
 
 
