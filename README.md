@@ -65,3 +65,29 @@ pkg install nodejs npm
 ```
 remember Errors may Occur
 
+
+
+## Basic Commands
+
+### Initializing a Project
+
+To initialize a new npm project, create a new directory for your project and run:
+
+```bash
+npm init
+```
+
+it will create a ```package.json``` file, used for
+* Dependency Management
+* Setting-up Dev env
+* Version management
+* many more
+
+
+### Installing Packages
+
+To install packages, use the `npm install` command followed by the package name. For example:
+
+```bash
+npm install jest
+```
