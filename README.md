@@ -28,6 +28,3 @@ On macOS, you can install npm using Homebrew, a popular package manager for macO
 2. Open Terminal and run the following command to install Node.js and npm:
 
     brew install node
-
-
-
