@@ -7,6 +7,8 @@ npm (Node Package Manager)! npm is a powerful tool for managing
 
 This guide will cover installation, basic commands, and common use cases.
 
+<hr>
+
 ## Installation
 
 ### Windows
@@ -65,7 +67,7 @@ pkg install nodejs npm
 ```
 remember Errors may Occur
 
-
+<hr>
 
 ## Basic Commands
 
@@ -126,9 +128,19 @@ npm update
 ```bash
 npm uninstall <package-name>
 ```
-
+<hr>
 
 ## Additional Resources
 * [npm Documentation](https://docs.npmjs.com/): Official npm documentation for more advanced topics and commands.
 * [npm Registry](https://www.npmjs.com/): Browse and search for packages available on the npm registry.
 * [Node.js Website](https://nodejs.org/en): Official website for Node.js, which includes npm.
+
+<hr>
+
+## About this Documentation
+im not an expert at current time 2024/Q1, im also learning.
+This documentation is just a part of practice, but i think it can help someone like me, who just started learning
+i think there are alot of things that i missed to include here
+
+thanks:
+dullat
