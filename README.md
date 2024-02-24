@@ -91,3 +91,17 @@ To install packages, use the `npm install` command followed by the package name.
 ```bash
 npm install jest
 ```
+
+
+### Running Scripts
+
+You can define custom scripts in your `package.json` file and run them using `npm run`. For example:
+```json
+{
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  }
+}
+```
+
