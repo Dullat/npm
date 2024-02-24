@@ -36,6 +36,8 @@ brew install node
 ### Linux
 On linux, you can use ur system package manager. very ezzz
 
+
+#### distros like Ubuntu
 ```bash
 sudo apt install nodejs npm
 ```
