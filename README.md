@@ -92,6 +92,13 @@ To install packages, use the `npm install` command followed by the package name.
 npm install jest
 ```
 
+### Install dependencies for a Node.js project.
+When you run ```npm install``` without specifying any package names, npm will look for a ```package.json``` file in the current directory. It will then install all the dependencies listed in the dependencies and devDependencies fields of the package.json.
+
+```bash
+npm install
+```
+
 
 ### Running Scripts
 
@@ -105,3 +112,23 @@ You can define custom scripts in your `package.json` file and run them using `np
 }
 ```
 
+Run Start Script :
+```bash
+npm start
+```
+
+### Update package
+```bash
+npm update
+```
+
+### Remove package
+```bash
+npm uninstall <package-name>
+```
+
+
+## Additional Resources
+* [npm Documentation](https://docs.npmjs.com/): Official npm documentation for more advanced topics and commands.
+* [npm Registry](https://www.npmjs.com/): Browse and search for packages available on the npm registry.
+* [Node.js Website](https://nodejs.org/en): Official website for Node.js, which includes npm.
