@@ -17,7 +17,17 @@ To install npm on Windows, use npm's official installer, which comes bundled wit
 2. Run the downloaded installer and follow the installation instructions.
 3. Time to varify, open a command prompt or PowerShell window and verify npm installation by running:
 
-* use
-<pre>``` $ npm --version ```</pre>
+<pre>```bash npm --version ```</pre>
+
+
+### macOS
+
+On macOS, you can install npm using Homebrew, a popular package manager for macOS.
+
+1. Homebrew installation instructions a [brew.sh](https://brew.sh).
+2. Open Terminal and run the following command to install Node.js and npm:
+
+<pre>```bash brew install node```</pre>
+
 
 
